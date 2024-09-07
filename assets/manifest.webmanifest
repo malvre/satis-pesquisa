@@ -1,0 +1,21 @@
+{
+  "name": "Satis Pesquisa",
+  "short_name": "satis-pesquisa",
+  "theme_color": "#ee5a5a",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
